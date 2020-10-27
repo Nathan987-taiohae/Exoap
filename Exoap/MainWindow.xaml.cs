@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace Exoap
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml test ron
     /// </summary>
     public partial class MainWindow : Window
     {
